@@ -8,7 +8,7 @@ http://www.tooplate.com/view/2088-big-city
 body {	
 	background: #1A2D4B;
 	position: relative;
-	color: black;
+	color: blue;
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	font-size: 17px;
 	font-weight: 400;
@@ -71,7 +71,7 @@ a:focus {
 	right: 0;
 	top: 0;
 	z-index: 1002;
-	background-color: rgba(42, 59, 85, 0.8);
+	background-color:rgba(212, 14, 24, 0.6);
 	height: 50px;
 }
 
@@ -152,7 +152,7 @@ button:focus { outline: none; }
 .cd-slider-nav .nav-item.selected .nav-link,
 .cd-slider-nav .nav-link:hover,
 .cd-slider-nav .nav-link:focus {
-	background-color: #1a2d4b;
+	background-color: #88060c;
 	color: white;	
 }
 
@@ -168,7 +168,7 @@ button:focus { outline: none; }
 
 .cd-hero-slider p { color: white; }
 .cd-hero-slider .tm-bg-white p,
-.cd-hero-slider .tm-bg-white h2 { color: black; }
+.cd-hero-slider .tm-bg-white h2 { color: blue; }
 
 .cd-hero-slider .tm-text { 
 	font-size: 1em;
@@ -187,19 +187,19 @@ button:focus { outline: none; }
 }
 
 .tm-home-title-container {
-	background-color: #856729;
+	background-color: #1332e4;
 	border: 1px solid white;
 	margin-bottom: 0;
 	padding: 30px;
 }
 
-.tm-bg-dark-blue { background-color: #1A2D4B; }
+.tm-bg-dark-blue { background-color: #e41313; }
 .tm-bg-white { 
 	background-color: white; 
 	color: black;
 }
-.tm-bg-brown { background-color: #856729; }
-.tm-bg-dark-brown { background-color: #5a471c; }
+.tm-bg-brown { background-color: #1332e4; }
+.tm-bg-dark-brown { background-color: #1332e4; }
 .tm-home-description-container { padding: 50px; }
 
 .tm-home-container-bg {
@@ -211,7 +211,7 @@ button:focus { outline: none; }
     z-index: -1;
     left: 0;
     top: 45px;
-    height: 94%;
+	height: 94%;
 }
 
 .tm-home-container-outer {
@@ -230,7 +230,8 @@ button:focus { outline: none; }
 
 .tm-white-header-container .tm-text-title {
 	padding: 25px 40px 60px;
-    font-size: 3rem;
+	font-size: 3rem;
+	color: blue;
 }
 
 .tm-white-header-body {
