@@ -255,7 +255,7 @@ button:focus { outline: none; }
 }
 
 .tm-bg-white-half {
-	background-color: white;
+	background-color: blue;
 	width: 50%;
 	height: 126px;
 	position: absolute;
