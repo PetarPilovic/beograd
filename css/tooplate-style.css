@@ -289,6 +289,11 @@ button:focus { outline: none; }
 }
 
 .cd-hero-slider p:last-child { margin-bottom: 0; }
+/* Events*/
+
+.pozadina {
+	background-color: rgba(255, 0, 0, 0.6);
+}
 
 /* Contact */
 .tm-contact-page {
